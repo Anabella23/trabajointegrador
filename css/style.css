@@ -1,0 +1,133 @@
+*{
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    background-color: rgb(76, 71, 71);
+   height: 60px;
+   justify-content: flex-start;
+}
+
+.btn btn-transparent{
+    padding: 0.25rem  0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    transition: box-shadow 0.15s ease-in-out;
+}
+
+.btn btn-solid{
+    background-color: green;
+}
+
+.navbar-collapse{
+    justify-content: flex-end;
+}
+.navbar-brand{
+    color: aliceblue;
+}
+
+.comprar-tickets{
+    background-color: green;
+    border-color: aliceblue;
+}
+
+.nav-link {
+    color: aliceblue;
+    
+}
+
+
+.img-codo {
+    width: 50px;
+}
+
+.fondo-bsas{
+    background: linear-gradient(to right,rgb(0 0 0/ .5),rgb(0 0 0/ .5)),url(../img.jpg/ba1.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+
+}
+
+.container-fluid-2{
+    color: aliceblue;
+    text-align: end;
+    padding-left: 40%;
+    padding-top: 30%;
+    padding-right:10%;
+    padding-bottom: 20%;
+    text-size-adjust: 5px;
+}
+
+.oradores{
+    text-align: center ;
+}
+.orador{
+    text-align: center;
+}
+
+card {
+    size: 9rem;
+    size: 18rem;
+}
+
+
+.card-body-2{
+    color:aliceblue;
+    background-color: rgb(50, 47, 47);
+}
+
+.container{
+    width: 70%;
+    height: 40%;
+    margin-block-end: 10%;
+}
+
+.container-3{
+    background-color: rgb(62, 52, 52);
+    height: 50%;
+    width: 100%;
+}
+
+.container-4{
+    font-size: 80%;
+    text-align: center;
+    width: 100%;
+    height: 80%;
+
+}
+
+.form-control{
+    width:80%; 
+    align-content: center;
+    margin-left: 20%;
+    margin-right: 40%;
+}
+
+.formulario{
+    size: 50%;
+    margin: 20px;
+}
+
+.enviar{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(14, 213, 50);
+    color:aliceblue;
+    margin: 20px;
+    border: 0;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
